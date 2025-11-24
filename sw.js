@@ -1,11 +1,11 @@
 const CACHE_NAME = 'portal-kampus-v1';
 const ASSETS_TO_CACHE = [
-    '/',
-    '/index.html',
-    '/style.css',
-    '/app.js',
-    '/images/icon-192.png',
-    '/images/icon-512.png'
+    './',
+    './index.html',
+    './style.css',
+    './app.js',
+    './images/icon-192.png',
+    './images/icon-512.png'
 ];
 
 // --- FASE 1: INSTALL ---

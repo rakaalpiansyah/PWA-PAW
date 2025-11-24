@@ -1,7 +1,7 @@
 {
   "name": "Portal Kampus Universitas",
   "short_name": "PortalKampus",
-  "start_url": "/index.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#007bff",
