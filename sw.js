@@ -7,7 +7,8 @@ const ASSETS_TO_CACHE = [
     './manifest.json',
     './images/icon-192.png',
     './images/icon-512.png',
-    './offline.html' // <--- WAJIB DITAMBAHKAN
+    './offline.html',
+    './detail.html'
 ];
 
 // Install Event
